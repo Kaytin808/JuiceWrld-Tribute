@@ -1,0 +1,35 @@
+.main-img {
+  display: block;
+  width: 600px;
+  height: 500px;
+  margin: auto;
+  object-fit: cover;
+}
+.center-text {
+  text-align: center;
+  font-family: sans-serif, "Times New Roman", Times, serif;
+}
+body {
+  background-color: rgb(205, 209, 209);
+}
+p {
+  background-color: rgb(255, 255, 255);
+  border-radius: 15px;
+  padding: 7px;
+  text-align: center;
+}
+@font-face {
+  font-family: juicefont;
+  src: url(/Fonts/LAMEBRAINS.ttf);
+}
+.main-font {
+  font-family: juicefont;
+  font-size: 66px;
+  color: rgb(105, 32, 173);
+}
+.second-main {
+  font-family: juicefont;
+}
+li {
+  font-size: 17px;
+}
