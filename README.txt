@@ -1,0 +1,1 @@
+This is a project that I am doing to practice and polish my html,css skills. My first ever one being the google-homepage project provided by The Odin Project.
