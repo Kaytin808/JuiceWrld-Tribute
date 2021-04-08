@@ -20,7 +20,7 @@ p {
 }
 @font-face {
   font-family: juicefont;
-  src: url(/LAMEBRAINS.ttf);
+  src: url(LAMEBRAINS.ttf);
 }
 .main-font {
   font-family: juicefont;
